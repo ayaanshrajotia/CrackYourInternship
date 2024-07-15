@@ -22,3 +22,6 @@ public:
         return j;
     }
 };
+
+// T(n) = O(n)
+// S(n) = O(1)

@@ -24,3 +24,6 @@ public:
         return {-1, -1};
     }
 };
+
+// T(n) = O(n)
+// S(n) = O(n)

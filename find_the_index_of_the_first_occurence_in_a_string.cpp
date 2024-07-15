@@ -20,3 +20,6 @@ public:
         return -1;
     }
 };
+
+// T(n) = O(n*m)
+// S(n) = O(1)
